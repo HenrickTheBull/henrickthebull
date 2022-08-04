@@ -6,13 +6,13 @@
 ### <div align="center">I'm currently working on:</div>  
   
 
-- 🔭 I’m currently working on Asterion: A Bespoke Discord Bot for Kesto Media  
+- 🔭 I’m currently working on
   
 
-- 🌱 I’m currently learning Python.  
+- 🌱 I’m currently 
   
 
-- ❓ Ask me about anything related to Kesto Media and it's your projects.  
+- ❓ Ask me about anything related to
   
 
 - ⚡ Fun fact: I'm a bull.  
